@@ -28,3 +28,11 @@ font-weight: bold;
 ul.gnav-navi-1 li:hover{
 background: #FF7F50;
 }
+
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #c71585;
+  text-align: center;
+  margin-top: 50px;
+}
