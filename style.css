@@ -1,6 +1,14 @@
 @import url(https://fonts.gooegleapis.com/css?family=Oswaid:400,700);
 @import url(https://use.fontawesome.com/releases/v6.4.2/css/all.css);
 
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
 ui {
   position: relative;
   transform: skewY(-15deg);
